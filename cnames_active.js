@@ -40,6 +40,7 @@ var cnames_active = {
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
   "19cah": "19cah.github.io/bio",
+  "zhDmitry": "zhDmitry.github.io",
   "1c": "oknosoft.github.io/1c",
   "21cm": "21cm.github.io",
   "23chemistrycamp": "nchuchemistry.github.io/23chemistrycamp",
